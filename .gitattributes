@@ -1,0 +1,2 @@
+RollABall-Win64-Shipping.exe filter=lfs diff=lfs merge=lfs -text
+RollABall-Windows.ucas filter=lfs diff=lfs merge=lfs -text
